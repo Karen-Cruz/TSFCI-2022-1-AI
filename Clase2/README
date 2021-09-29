@@ -1,0 +1,12 @@
+Para esta clase deben tener el siguiente material:
+
+  clase-2_fv.ipynb, que es la nb principal de la clase. 
+  Newton-Raphson-Descent.ipynb, que es la nb secundaria de la clase.
+  diffraction-pattern.xy, es un archivo que contiene un patron de difracción, se usa en la nb secundaria.
+  NewtonIteration_Ani.gif, un gif mostrado en las nb.
+  Literatura.zip, carpeta comprimida con la literatura para esta clase.
+
+
+En esta clase se aborda el tema de ajuste de curvas a un conjunto de puntos u observaciones utilizando varios métodos.
+
+La literatura la pueden encontrar en https://drive.google.com/drive/u/0/folders/183paUt0y3zPJLQgCxL8wKPS9VEsN5MAD

@@ -1,0 +1,15 @@
+La carpeta contiene el siguiente material:
+
+Clase5_python-tf_fv.ipynb
+Clase5_tf-gpu_fv.ipynb
+Clase5_pytorch_fv.ipynb
+Clase5_pytorch_gpu_fv,ipynb
+diabetes.csv, 
+asiri.py
+asiry_gpu.py
+images.zip, carpeta comprimida con las imágenes que se utilizan en la nb.
+
+
+* Recuerda descomprimir la carpeta images para que puedan desplegarse las imágenes en la notebook.
+
+En esta clase se aborda el problema de la Evolución de la enfermedad de pacientes con Diabetes Mellitus despues de un año, utilizando los frameworks de keras-tf y pytorch.

@@ -1,0 +1,12 @@
+La carpeta contiene el siguiente material:
+Clase6_fv.ipynb
+kmeans.py
+old_faithful.csv
+customer-segmentation.zip
+yell-InDepth-Geysers2_640x360.mp4
+images.zip, carpeta comprimida con las imágenes que se utilizan en la nb.
+Literatura.zip, carpeta comprimida con la literatura para esta clase.
+
+* Recuerda descomprimir la carpeta images para que puedan desplegarse las imágenes en la notebook.
+
+En esta clase revisamos un algoritmo de Unsupervised Learning: Clustering utilizando K-means

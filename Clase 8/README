@@ -1,0 +1,9 @@
+La carpeta contiene el siguiente material:
+Clase8_fv.ipynb
+mnist.pkl.gz, datos a utilizar
+images.zip, carpeta comprimida con las imágenes que se utilizan en la nb.
+Literatura.zip, carpeta comprimida con la literatura para esta clase.
+
+* Recuerda descomprimir la carpeta images para que puedan desplegarse las imágenes en la notebook.
+
+En esta clase revisamos en problema de clasificación multiple usando la base de datos MNIST.

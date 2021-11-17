@@ -1,0 +1,13 @@
+La carpeta contiene el siguiente material:
+Clase9_fv.ipynb
+O-Underfitting_v4.ipynb 
+O-Underfitting_v4.pdf
+clase9-figures.odt
+images.zip, carpeta comprimida con las imágenes que se utilizan en la nb.
+Literatura.zip, carpeta comprimida con la literatura para esta clase.
+
+* Recuerda descomprimir la carpeta images para que puedan desplegarse las imágenes en la notebook.
+
+En esta clase revisamos los problemas de underfitting y overfitting y algunos métodos de regularización utilizando la base de datos CIFAR-10.
+
+También pueden encontrar el material en el enlace compartido.
